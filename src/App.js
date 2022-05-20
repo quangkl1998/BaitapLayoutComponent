@@ -1,6 +1,6 @@
 // import logo from './logo.svg';
 import './App.css';
-import Home from './GlassesImage/home';
+import Home from './BaiTapLayoutComponent/home'
 
 function App() {
   return (
